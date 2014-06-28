@@ -1,0 +1,26 @@
+{
+  "name": "lxjs-nodebots",
+  "version": "0.0.1",
+  "description": "nodebots code",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nelsonic/lxjs-nodebots.git"
+  },
+  "keywords": [
+    "node",
+    "robots"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/lxjs-nodebots/issues"
+  },
+  "homepage": "https://github.com/nelsonic/lxjs-nodebots",
+  "dependencies": {
+    "johnny-five": "~0.7.49"
+  }
+}
