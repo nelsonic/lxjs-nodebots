@@ -5,7 +5,7 @@ board.on('ready', function () {
   var status = new five.Led(13);
   status.on();
 
-  var pan = new five.Servo(9);
+  var pan = new five.Servo(8);
 
   this.repl.inject({
     status: status,
